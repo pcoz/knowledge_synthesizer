@@ -143,3 +143,21 @@ As you run the script, you’ll be prompted to select:
 * Filenames are auto-generated based on the content, format, and time (e.g., `Core_Concepts_Quick_Reference_20250712_083455.md`).
 * Each run prints the output path and document to the screen.
 
+---
+
+## Examples Directory
+
+The repository includes an `examples/` directory to help you understand and test Knowledge Synthesizer. Here you’ll find:
+
+* **Static\_electricity\_(original\_content).txt**
+  The raw, original source text about static electricity. This file demonstrates the kind of input you can provide to the system.
+
+* **Fundamentals and Experiments in Frictional Electricity.pdf**
+  An example of an auto-generated comprehensive guide produced by the system from the above source.
+
+* **Frequently Asked Questions (FAQ).pdf**
+  An example of an auto-generated FAQ-style output, using the same knowledge graph.
+
+These examples are meant to show what kinds of input the tool works with, and what the output looks like in different synthesis modes.
+
+---
