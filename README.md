@@ -1,6 +1,6 @@
 # Knowledge Synthesizer
 
-**Knowledge Synthesizer** is an advanced Python system for extracting, organizing, and synthesizing knowledge from collections of unstructured documents (text, Markdown, CSVs, etc). It builds a multi-level knowledge graph using AI (OpenAI models), then generates readable, structured output in a variety of formats (comprehensive guides, FAQs, checklists, executive summaries, and more).
+**Knowledge Synthesizer** is an advanced Python script for extracting, organizing, and synthesizing knowledge from collections of unstructured documents (text, Markdown, CSVs, etc). It builds a multi-level knowledge graph using AI (OpenAI models), then generates readable, structured output in a variety of formats (comprehensive guides, FAQs, checklists, executive summaries, and more).
 
 This is a next-gen knowledge management and synthesis tool: it brings together LLM-powered extraction, graph-based organization, and automated Markdown publishing — giving you detailed, well-organized, and readable documentation from any pile of docs.
 
