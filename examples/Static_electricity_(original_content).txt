@@ -1,0 +1,119 @@
+CHAPTER I.
+
+ABOUT FRICTIONAL ELECTRICITY.
+
+
+=1. Some Simple Experiments.= Have you ever shuffled your feet along
+over the carpet on a winter's evening and then quickly touched your
+finger to the nose of an unsuspecting friend? Did he jump when a bright
+spark leaped from your finger and struck him fairly on the very tip of
+his sensitive nasal organ?
+
+[Illustration: Fig. 1.]
+
+Did you ever succeed in proving to the pussy-cat, Fig. 1, that
+something unusual occurs when you thoroughly rub his warm fur with your
+hand? Did you notice the bright sparks that passed to your hand when it
+was held just above the cat's back? You should be able to see, hear,
+and feel these sparks, especially when the air is dry and you are in a
+dark room.
+
+Did you ever heat a piece of paper before the fire until it was real
+hot, then lay it upon the table and rub it from end to end with your
+hand, and finally see it cling to the wall?
+
+Were you ever in a factory where there were large belts running rapidly
+over pulleys or wheels, and where large sparks would jump to your hands
+when held near the belts?
+
+If you have never performed any of the four experiments mentioned, you
+should try them the first time a chance occurs. There are dozens of
+simple, fascinating experiments that may be performed with this kind of
+electricity.
+
+=2. Name.= As this variety of electricity is made, or generated, by
+the friction of substances upon each other, it is called _frictional_
+electricity. It is also called _static_ electricity, because it
+generally stands still upon the surface of bodies and does not "flow in
+currents" as easily as some of the other varieties. Static electricity
+may be produced by induction as well as by friction.
+
+[Illustration: Fig. 2.]
+
+=3. History.= It has been known for over 2,000 years that certain
+substances act queerly when rubbed. Amber was the first substance upon
+which electricity was produced by friction, and as the Greek name for
+amber is _elektron_, bodies so affected were said to be _electrified_.
+When a body, like ebonite, is rubbed with a flannel cloth, we say that
+it becomes _charged with electricity_. Just what happens to the ebonite
+is not clearly understood. We know, however, that it will attract
+light bodies, and then quickly repel them if they be conductors. Fig.
+2 shows a piece of tissue-paper jumping toward a sheet of ebonite that
+has been electrified with a flannel cloth.
+
+=4. Conductors and Non-Conductors.= Electricity can be produced upon
+glass and ebonite because they do not carry or conduct it away. If a
+piece of iron be rubbed, the electricity passes from the iron into the
+earth as fast as it is generated, because the iron is a _conductor_ of
+electricity. Glass is an _insulator_ or _non-conductor_. Frictional
+electricity resides upon the outside, only, of conductors. A hollow
+tin box will hold as great a charge as a solid piece of metal having
+the same outside size and shape. When frictional electricity passes
+from one place to another, sparks are produced. Lightning is caused
+by the passage of static electricity from a cloud to the earth, or
+from one cloud to another. In this case air forms the conductor. (For
+experiments, see "Study," Chapter VII.)
+
+[Illustration: Fig. 3.]
+
+=5. Electroscopes.= A piece of carbon, pith, or even a small piece of
+damp tissue-paper will serve as an electroscope to test the presence of
+static electricity. The pith is usually tied to a piece of silk thread
+which is a non-conductor. Fig. 3 shows the ordinary form of _pith-ball
+electroscope_.
+
+The _leaf electroscope_ is a very delicate apparatus. Gold-leaf is
+generally used, but aluminum-leaf will stand handling and will do for
+all ordinary purposes. Fig. 4 shows a common form, the glass being
+used to keep currents of air from the leaves and at the same time to
+insulate them from the earth.
+
+Electroscopes are used to show the presence, relative amount, or kind
+of static electricity on a body. (See "Study," Chapter XI.)
+
+[Illustration: Fig. 4.]
+
+=6. Two Kinds of Electrification.= It can be shown that the
+electrification produced on all bodies by friction is not the same;
+for example, that generated with glass and silk is not the same as
+that made with ebonite and flannel. It has been agreed to call that
+produced by glass and silk _positive_, and that by ebonite and flannel
+_negative_. The signs + and - are used for positive and negative.
+
+=7. Laws of Electrification.= (1) Charges of the same kind repel each
+other; (2) charges of unlike kinds attract each other; (3) either kind
+of a charge attracts and is attracted by a neutral body.
+
+=8. Static Electric Machines.= In order to produce static electricity
+in quantities for experiments, some device is necessary.
+
+The _electrophorus_ (e-lec-troph´-o-rus) is about the simplest form
+of machine. Fig. 5 shows a simple electrophorus in which are two
+insulators and one conductor. The ebonite sheet E S is used with a
+flannel cloth to generate the electricity. The metal cover E C is
+lifted by the insulating handle E R. The cover E C is placed upon the
+thoroughly charged sheet E S, and then it is touched for an instant
+with the finger, before lifting it by E R. The charge upon E C can then
+be removed by bringing the hand near it. The bright spark that passes
+from E C to the hand indicates that E C has discharged itself into the
+earth. The action of the electrophorus depends upon induction. (For
+experiments, details of action, induced electrification, etc., see "The
+Study of Elementary Electricity and Magnetism by Experiment," Chapters
+VIII. and IX.)
+
+[Illustration: Fig. 5.]
+
+_The first electric machine_ consisted of a ball of sulphur fastened to
+a spindle which could be turned by a crank. By holding the hands or a
+pad of silk upon the revolving ball, electricity was produced.
+
